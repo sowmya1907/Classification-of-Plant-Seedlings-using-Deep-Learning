@@ -56,5 +56,3 @@ python src/predict.py --image test_image.jpg
 - [Kaggle Plant Seedlings Dataset](https://www.kaggle.com/c/plant-seedlings-classification/data)  
 - Research Papers on **AI in Agriculture**  
 - TensorFlow/Keras Documentation  
-
-```
